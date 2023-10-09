@@ -4,17 +4,17 @@ header{
         width: 100%;
         height: 60px;
         padding: 10px 0px 10;
-        background-color: rgb(205, 33, 90);
+        background-color: brown
 
 }
 
 main{
     width:90% ;
-    background-color: aliceblue;
+    background-color: wheat;
     padding: 20px;
     margin: 20px auto;
     border-radius: 20px;
-    box-shadow: rgba(0, 0, 255, 0.185) 6px 6px;
+    box-shadow:rgb(79, 41, 41)
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 
 
@@ -52,7 +52,7 @@ nav {
 
 a{  text-decoration: none;
     margin: 0px 6px;
-    background-color: rgb(71, 2, 79);
+    background-color: rgb(152, 123, 93);
     color: azure;
     padding: 0px 15px;
     border-radius: 5px;
@@ -64,14 +64,14 @@ a{  text-decoration: none;
 #banner{
     width: 100%;
     height: 400px;
-   background-image: url(../images/paisagem-crianca-torreRosa.jpg);
+   background-image: url(../images/banner.jpg);
    background-size:contain;
    background-position: center;
 
 }
 
 h1,h2{ text-decoration: solid;
-    color:blueviolet
+    color:brown
 
 }
 
@@ -80,6 +80,5 @@ footer{
     height: 60px;
     padding: 10px 10px 10;
     text-align: center;
-    background-color: rgba(240, 150, 241, 0.412);
-
+    background-color: wheat
 }
