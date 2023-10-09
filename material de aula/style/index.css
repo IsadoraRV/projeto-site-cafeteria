@@ -1,0 +1,85 @@
+
+
+header{
+        width: 100%;
+        height: 60px;
+        padding: 10px 0px 10;
+        background-color: rgb(205, 33, 90);
+
+}
+
+main{
+    width:90% ;
+    background-color: aliceblue;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 255, 0.185) 6px 6px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+
+}
+
+
+
+
+#logo img{
+    width: 40px;
+    height: 40px;
+
+    border-radius: 50px;
+}
+
+#logo{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(51, 51, 255);
+    border-radius: 40px;
+    overflow: hidden;
+    float: left;
+    
+
+}
+
+nav {
+
+        width: auto;
+        height: auto;
+        line-height: 40px;
+        float: right;
+        margin: 0px 20px;
+}
+
+a{  text-decoration: none;
+    margin: 0px 6px;
+    background-color: rgb(71, 2, 79);
+    color: azure;
+    padding: 0px 15px;
+    border-radius: 5px;
+
+    
+
+}
+
+#banner{
+    width: 100%;
+    height: 400px;
+   background-image: url(../images/paisagem-crianca-torreRosa.jpg);
+   background-size:contain;
+   background-position: center;
+
+}
+
+h1,h2{ text-decoration: solid;
+    color:blueviolet
+
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    padding: 10px 10px 10;
+    text-align: center;
+    background-color: rgba(240, 150, 241, 0.412);
+
+}
